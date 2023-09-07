@@ -1,0 +1,3 @@
+molmass==2023.8.30
+streamlit==1.26.0
+Pint==0.22
